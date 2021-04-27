@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  AnimationApp
 //
 //  Created by Анна Голубева on 27.04.2021.
@@ -7,7 +7,7 @@
 
 import Spring
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
     
     @IBOutlet weak var presetLabel: UILabel!
     @IBOutlet weak var curveLabel: UILabel!
